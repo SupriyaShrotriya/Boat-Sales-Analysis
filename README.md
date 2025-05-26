@@ -4,11 +4,26 @@ This dataset represents the sales information of used boats listed on a website.
 # Data Sources
 The data for this project is an open source data downloaded from https://www.kaggle.com/datasets/karthikbhandary2/boat-sales
 
+# Key Questions
+Characteristics of the most viewed boat listing in the last 7 days      
+What is the price of boat that get the most views?   
+Are there common features among the most viewed boats?   
+What is the location of the most viewed boat?   
+
 # Folders
-Project Management: Project Brief   
-Data: original and prepared   
-Scripts: Python coding involved for the entire analysis process   
-Analysis: Visualizations used for developing insights and presenting on the final report     
+The project files are divided between the following folders:
+
+1.Project Management: Project Brief and Data Dictionary.
+
+2.Data: Separated into two subfolders Original Data and Prepared Data. These contains the original data frames and the data frames after they have been cleaned and prepared for analysis respectively. (Data files not uploaded to GitHub due to size.)
+
+3.Scripts: The Jupyter notebooks containing the coding for the analysis.
+
+4.Analysis: The Visualizations folder contains the visualizations used for developing and explaining insights.
+
+5.Sent to Client: The final report presented in Excel.
+
+
 
 # Tools & Skills
 Python     
